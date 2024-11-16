@@ -5,18 +5,39 @@ body{
 }
 
 .p-1{
-    background-color: aqua;
-    color: blue;
+    background-color: rgba(13, 151, 32, 0.911);
+    margin-left: 300px;
+    margin-right: 300px;
+    
 }
 
-ul{
+ol{
  background-color: darkviolet;
 }
-    .p-2{
-        color: black;
+.p-2{
+        
      background-color: chocolate;
+     margin-left: 300px;
+     margin-right: 200px; 
+     color: red;
+
+        }
+.p-3{
+            background-color: chocolate;
+            color: antiquewhite;
+            margin-left: 100px;
+            margin-right: 200px;  
+            font-size: x-small;
         }
 .logo{
-    width: 50px;
-    height: 50px;
+    
+    margin: auto;
+    display: block;
+    width: 80px;
+    height: 100px;
+}
+
+h1{
+text-align: center;
+
 }
